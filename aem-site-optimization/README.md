@@ -8,12 +8,6 @@ To know more about above-mentioned tags read this article - https://www.keycdn.c
 
 This project allows a content editor to configure link tags in AEM page properties.
 
-example: if content editor configured link "https://cdn.domain.com" in page properties. Link tag will be added inside head tag, like below example.
-
-<head>
-<link href="https://cdn.domain.com" rel="preconnect" crossorigin>
-</head>
-
 HTL implementation for preconnect- https://github.com/surya057/AEM-site-optimization/blob/master/aem-site-optimization/ui.apps/src/main/content/jcr_root/apps/siteopt/components/structure/page/head.html
 
 XML implementation for page properties- https://github.com/surya057/AEM-site-optimization/blob/master/aem-site-optimization/ui.apps/src/main/content/jcr_root/apps/siteopt/components/structure/page/_cq_dialog/.content.xml
