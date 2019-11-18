@@ -1,6 +1,6 @@
 
 
-# Sample AEM project for better performance
+# Sample AEM project to use preconnect configuration in AEM
 
 This is an AEM PoC project to test Prefetch, prerendering and preconnect functionality.
 
