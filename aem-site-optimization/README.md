@@ -4,7 +4,7 @@
 
 This is an AEM PoC project to test Prefetch, prerendering and preconnect functionality.
 
-To know more about above-mentioned tags read this article - https://www.keycdn.com/blog/resource-hints
+To know more about above-mentioned tags please read this article - https://www.keycdn.com/blog/resource-hints
 
 This project allows a content editor to configure link tags in AEM page properties.
 
